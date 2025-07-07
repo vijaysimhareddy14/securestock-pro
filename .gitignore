@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs and cache
+*.log
+*.sqlite3
+.cache/
+*.db
+
+# Jupyter and Colab
+.ipynb_checkpoints/
+
+# VSCode / IDE settings
+.vscode/
+.idea/
+
+# Environment variable or secret files
+.env
+config.py
+
+# Streamlit-specific
+.streamlit/
